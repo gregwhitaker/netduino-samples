@@ -3,11 +3,11 @@ Netduino Samples
 
 A collection of Netduino sample applications.
 
-##BasicXBeeExample
+###BasicXBeeExample
 
 Simple program that monitors the serial port for an ON or OFF command and then turns the onboard LED on or off based on the command received from the XBee.  You need to have another program to send the command.  For testing purposes you can simply use a terminal like X-CTU and connect one of the XBees to your computers usb port.
 
-##WirelessInfraredSensor
+###WirelessInfraredSensor
 
 This example will show you how to build a wireless intrusion detection device.  The example consists of a remote sensor that detects when objects approach it via an infrared sensor.  The remote sensor will only report intrusions when it is "*armed*".
 
