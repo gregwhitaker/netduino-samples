@@ -11,3 +11,5 @@ The example consists of a single circuit that makes use of the Netduino's UART p
 * DIN on the XBee needs to go to a UART Tx pin on the Netduino (D-I/O Pin 1)
 
 ![wiring_diagram](Docs/Diagram_Small.png)
+
+The Fritzing design file can be found [HERE](Docs/NetduinoXBee.fzz)
