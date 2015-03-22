@@ -9,5 +9,5 @@ Sample                                               | Description
 [Wireless Intrusion Detector](WirelessInfraredSensor)|This example shows you how to build a wireless intrusion detection device.
 
 ##Wiring Diagrams
-Each example contains a wiring diagram created with the open source electronics software [Fritzing](http://fritzing.org/download/).
+Each example contains a wiring diagram created with the open source circuit design software [Fritzing](http://fritzing.org/download/).
 
