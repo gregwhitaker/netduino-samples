@@ -14,6 +14,6 @@ The example consists of two circuits:
 1. An XBee module that is transmitting and receiving serial data.
 2. An XBee module that is transmitting and receiving serial data based upon the state of an infrared sensor.
 
-![wiring_diagram](Docs/Diagram.png)
+![wiring_diagram](Docs/Diagram_Small.png)
 
 The Fritzing design file can be found [HERE](Docs/NetduinoWirelessIntrusionDetection.fzz)
